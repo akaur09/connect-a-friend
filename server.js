@@ -1,5 +1,5 @@
 // Require Express
-const express = rewquire('express');
+const express = require('express');
 // Require Mongoose
 const mongoose = require('mongoose');
 
