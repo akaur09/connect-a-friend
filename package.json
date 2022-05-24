@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/akaur09/connect-a-friend/issues"
   },
-  "homepage": "https://github.com/akaur09/connect-a-friend#readme"
+  "homepage": "https://github.com/akaur09/connect-a-friend#readme",
+  "dependencies": {
+    "mongo": "^0.1.0"
+  }
 }
